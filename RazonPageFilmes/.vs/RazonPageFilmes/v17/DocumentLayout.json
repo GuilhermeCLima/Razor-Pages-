@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\data\\razonpagefilmescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\data\\razonpagefilmescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\migrations\\razonpagefilmescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\migrations\\razonpagefilmescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\model\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\model\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\pages\\filmes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\pages\\filmes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\pages\\filmes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\pages\\filmes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\pages\\filmes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\pages\\filmes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\pages\\filmes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\pages\\filmes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\pages\\filmes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\pages\\filmes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|c:\\users\\glima\\source\\repos\\razorpagesfilmes1\\razonpagefilmes\\razonpagefilmes\\pages\\filmes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089D5172-AF80-4704-BF68-FF1B7280BE2F}|RazonPageFilmes\\RazonPageFilmes.csproj|solutionrelative:razonpagefilmes\\pages\\filmes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RazonPageFilmesContext.cs",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Data\\RazonPageFilmesContext.cs",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Data\\RazonPageFilmesContext.cs",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Data\\RazonPageFilmesContext.cs",
+              "RelativeToolTip": "RazonPageFilmes\\Data\\RazonPageFilmesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:50:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RazonPageFilmesContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Migrations\\RazonPageFilmesContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Migrations\\RazonPageFilmesContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Migrations\\RazonPageFilmesContextModelSnapshot.cs",
+              "RelativeToolTip": "RazonPageFilmes\\Migrations\\RazonPageFilmesContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:51:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Pages\\Filmes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazonPageFilmes\\Pages\\Filmes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:50:29.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Pages\\Filmes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Create.cshtml",
+              "RelativeToolTip": "RazonPageFilmes\\Pages\\Filmes\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:50:23.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Pages\\Filmes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Delete.cshtml",
+              "RelativeToolTip": "RazonPageFilmes\\Pages\\Filmes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:50:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Pages\\Filmes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Details.cshtml",
+              "RelativeToolTip": "RazonPageFilmes\\Pages\\Filmes\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:50:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Model\\Filme.cs",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Model\\Filme.cs",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Model\\Filme.cs",
+              "RelativeToolTip": "RazonPageFilmes\\Model\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:29:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Pages\\Filmes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Index.cshtml.cs",
+              "RelativeToolTip": "RazonPageFilmes\\Pages\\Filmes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:27:26.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazonPageFilmes\\Pages\\Filmes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\glima\\source\\repos\\RazorPagesFilmes1\\RazonPageFilmes\\RazonPageFilmes\\Pages\\Filmes\\Index.cshtml",
+              "RelativeToolTip": "RazonPageFilmes\\Pages\\Filmes\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:13:06.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
